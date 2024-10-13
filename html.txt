@@ -1,0 +1,31 @@
+--> Span
+    span element is basically used to insert the text in a new line instead of putting it in the next one
+
+--> Header
+    in case we want to group the element together which represent the header of the website
+
+--> Aside
+    Tag used generally for sidebars
+
+--> Section
+    To grouop content on the web page based on theme or purpose
+
+--> Main
+    To specify the main content of the page
+
+--> Form
+    to create a Form
+
+--> Input
+    to input the data 
+    Placeholder- the text displayed by default when there is noting written by used
+
+--> Select
+    for drop down menu
+    Option - to give the user the option to choose and also give a value correspoinding to that option
+
+--> Strong
+    to put some emphaisi on the text that it is important
+
+--> Div
+    a generic box with no speical meaning except to group the elements together
